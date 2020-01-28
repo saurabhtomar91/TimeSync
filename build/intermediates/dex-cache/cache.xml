@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/saurabhtomar/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/saurabhtomar/timesync/app/build/intermediates/pre-dexed/debug/common-1.0.0_2823a110f244c1ad85d0057c8ad0c00a19885e4d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/saurabhtomar/.android/build-cache/54cb9cb933c08d3eb3195d7f21d2f4e4f06edbe7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/saurabhtomar/timesync/app/build/intermediates/pre-dexed/debug/classes_8e319017a7a6f6facad79c852e0779f1794fded0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/saurabhtomar/.android/build-cache/be0b1a2baa4f5b08b2870f019e108c0079c7e417/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/saurabhtomar/timesync/app/build/intermediates/pre-dexed/debug/classes_b1ddced0626480d2e2fa31abcf792f8e5618f2c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/saurabhtomar/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/saurabhtomar/timesync/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_9a9b55b71b39bb7494e9326bd9cafa31bc489c62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/saurabhtomar/.android/build-cache/c47f8db3b2e63bfd0c0cdf3b3a063c491f536ab2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/saurabhtomar/timesync/app/build/intermediates/pre-dexed/debug/classes_cf6f59ab042b2ae360f34fbef52234567bf9b35d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/saurabhtomar/.android/build-cache/ae8071bbd6f96d3421bc236ce1926824396be822/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/saurabhtomar/timesync/app/build/intermediates/pre-dexed/debug/classes_d6ae801f8c459f3a2c2681a7933652625580f87a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/saurabhtomar/.android/build-cache/768563e212859c28419aa38cf94590d37ef8645e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/saurabhtomar/timesync/app/build/intermediates/pre-dexed/debug/classes_590ffd3d19b90607dd1cd692c8443294e45cef11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/saurabhtomar/.android/build-cache/a13b97750f8dae642dd7468f2f72731c21c966db/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/saurabhtomar/timesync/app/build/intermediates/pre-dexed/debug/classes_e38cdb18d2e4d556b685673ff5c2b01a92584727.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/saurabhtomar/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/saurabhtomar/timesync/app/build/intermediates/pre-dexed/debug/common-1.0.0_435a9397f5aeb574437c20048d87ec1b1a54ac81.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/saurabhtomar/.android/build-cache/c01e3e74853adfd498ab8975127fa3a42147e70c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/saurabhtomar/timesync/app/build/intermediates/pre-dexed/debug/classes_a4fc003cf52f79fbd41f7216cb6a442bbf057352.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/saurabhtomar/.android/build-cache/66fc8eb0f63cb792c61fbfd937295e424e8cb496/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/saurabhtomar/timesync/app/build/intermediates/pre-dexed/debug/classes_b31d1134e73da0623e4f28a074be401bb1ccc716.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/saurabhtomar/.android/build-cache/9abf92a752d2068a7b809681209af7655e433664/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/saurabhtomar/timesync/app/build/intermediates/pre-dexed/debug/classes_8c806112bbaf0a3c9c846f7185f120e8cdf8148b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/saurabhtomar/timesync/lib/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d9ac68e1d6b7c9bc11f443b2b1ccd63b80eb3b9c">
+        <dex dex="/Users/saurabhtomar/timesync/app/build/intermediates/pre-dexed/debug/classes_0661e7c27162f07d171066428b361f27a2722112.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/saurabhtomar/.android/build-cache/27f94c91e536f11b12bc25034e5d6de9545bcf9f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/saurabhtomar/timesync/app/build/intermediates/pre-dexed/debug/classes_9fef4c6d13c6c729846704c77dd5b106de55f284.jar" />
+    </item>
+
+</items>
